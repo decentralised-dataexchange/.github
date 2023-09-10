@@ -1,3 +1,6 @@
 #### About iGrant.io
 
-iGrant.io is a data exchange platform that helps organisations to access personal data in a sustainable and human-centric manner. Using iGrant.io’s data exchange services, organisations gain access to verifiable, auditable and data regulatory compliant personal data. Every data exchange has an associated Data Agreement (DA) that records conditions for an organization to process personal data in accordance with data regulations, such as the GDPR.
+iGrant.io™ is a leading data exchange and verification service provider headquartered in Stockholm, Sweden. We specialise in consented data exchange and verification services, utilising cutting-edge technologies like self-sovereign identity, verifiable credentials, digital wallets, and solid pod technologies. Our mission is to bring a new level of data interoperability to businesses while automating compliance with data regulations in a fully auditable manner. We partner with the European Wallet Consortium (EWC) and pioneer digital wallets in large-scale public and healthcare pilots. 
+
+Join us on this journey to mobilise data in lawful, scalable, transparent, and auditable transactions!
+
