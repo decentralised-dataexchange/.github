@@ -4,5 +4,11 @@ iGrant.io™ is a leading data exchange and verification service provider headqu
 
 Our digital wallets are available for enterprises and individuals and support European Blockchain Service Infrastructure (EBSI), all commercial Hyperledger Indy-based ledgers and non-ledger trust anchors. Join us on this journey to mobilise data in lawful, scalable, transparent, and auditable transactions!
 
+As part of our public sector engagements, iGrant.io, together with partners have created a number of Digital Public Goods (DPGs). Some major opensource software relevant for public sector are as given:
+
+* [Automated Data Agreements](https://app.digitalpublicgoods.net/a/10007)
+* [Data Exchange Agreement (DEXA) Protocol Suite](https://app.digitalpublicgoods.net/a/10962)
+* [Consent Building Block which is part of Govstack](https://github.com/decentralised-dataexchange/bb-consent-docs/wiki)
+
 Contact us at [info@igrant.io](mailto:info@igrant.io) for enquiries.
 
