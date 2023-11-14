@@ -8,7 +8,7 @@ As part of our public sector engagements, iGrant.io, together with partners have
 
 * [Automated Data Agreements](https://app.digitalpublicgoods.net/a/10007)
 * [Data Exchange Agreement (DEXA) Protocol Suite](https://app.digitalpublicgoods.net/a/10962)
-* [Consent Building Block which is part of Govstack](https://github.com/decentralised-dataexchange/bb-consent-docs/wiki)
+* [GovStack Consent Building Block](https://github.com/decentralised-dataexchange/bb-consent-docs/wiki)
 
 Contact us at [info@igrant.io](mailto:info@igrant.io) for enquiries.
 
